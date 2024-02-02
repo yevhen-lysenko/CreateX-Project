@@ -2238,7 +2238,7 @@ html, body {
     margin: 0;
   }
 }
-@media (max-width: 450px) {
+@media (max-width: 500px) {
   .jobs__main {
     display: none;
   }
